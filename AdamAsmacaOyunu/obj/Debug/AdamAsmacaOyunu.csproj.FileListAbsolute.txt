@@ -1,0 +1,11 @@
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe.config
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.exe
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\bin\Debug\AdamAsmacaOyunu.pdb
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Form1.resources
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.Properties.Resources.resources
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.GenerateResource.cache
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.exe
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.pdb
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.harf.resources
+C:\Users\HEPTER10\source\repos\AdamAsmacaOyunu\AdamAsmacaOyunu\obj\Debug\AdamAsmacaOyunu.SkorEkle.resources
